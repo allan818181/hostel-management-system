@@ -17,4 +17,4 @@ RoomSync is a modern Hostel/Room Management System designed to simplify accommod
 ## Installation 🚀
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Veenbreeze/RoomSync.git
+   git clone https://github.com/allan818181/hostel-management-system
